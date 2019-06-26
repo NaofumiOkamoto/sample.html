@@ -18,6 +18,6 @@ HTMLとCSSを紐づけるために必要な要素
 `<link rel="stylesheet" href="">`
 
 問５  
-`<div class="content"></div>`
-`<div class="content"></div>`
-`<div class="content"></div>`
+`<div class="content"></div>`  
+`<div class="content"></div>`  
+`<div class="content"></div>`  
